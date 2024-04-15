@@ -1,6 +1,6 @@
 # <p align="center"> Hi there 👋! My name is Aditya Mehta </p> 
 
-I am a Sophomore at one of the most decorated technological insttitutes: **Indian Institute of Technology Gandhinagar,** in Computer Science and Engineering Department.
+I am a Sophomore at one of the most decorated technological insttitutes: **Indian Institute of Technology Gandhinagar,** in **Computer Science and Engineering Department**.
 
 - 🔭 I am currently strengthening my grip at Machine Learning solutions to real life problems, along side exploring Software Developement and Hardware Implementation on Computer Architecture.
 - 🌱 My deep interest also lies in Data Science and Dignal Processing Domains of Computer Science.
