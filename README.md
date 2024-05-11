@@ -4,7 +4,7 @@ I am a Sophomore at one of the most decorated technological institutes: **Indian
 
 - 🔭 I am currently strengthening my grip at Machine Learning solutions to real life problems, along side exploring Software Developement and Hardware Implementation on Computer Architecture.
 - 🌱 My deep interest also lies in Data Science and Digital Signal Processing Domains of Computer Science.
-- 🌐 Click to see my [Portfolio Website](https://aditya-me13.github.io/) 
+- 🌐 Click to see my [Portfolio Website](https://aditya-me13.github.io/).
 - 📎 Have a look at my [Leetcode profile](https://leetcode.com/u/user8458Ef/).
 - 📫 Reach out to me on aditya.mehta@iitgn.ac.in or my [LinkedIn](https://www.linkedin.com/in/aditya-mehta-6ba290256/) profile.
 - ⚡ Fun fact: I like exploring as many domains of Computer Science as possible; but I am too lazy to find a balance between them. 😄
