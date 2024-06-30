@@ -3,7 +3,7 @@
 I am a Sophomore at one of the most decorated technological institutes: **Indian Institute of Technology Gandhinagar,** in **Computer Science and Engineering Department**.
 
 - 🔭 I am currently strengthening my grip at Machine Learning solutions to real life problems, along side exploring Software Developement and Hardware Implementation on Computer Architecture.
-- 🌱 My deep interest also lies in Data Science and Digital Signal Processing Domains of Computer Science.
+- 🌱 My deep interest also lies in Data Science and Digital Signal Processing Domains of Computer Science. I am trying to make ```Hello World``` my new ```ABC```.
 - 🌐 Click to see my [Portfolio Website](https://aditya-me13.github.io/).
 - 📎 Have a look at my [Leetcode profile](https://leetcode.com/u/aditya-me13/).
 - 📫 Reach out to me on aditya.mehta@iitgn.ac.in or my [LinkedIn](https://www.linkedin.com/in/aditya-mehta-6ba290256/) profile.
