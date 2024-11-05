@@ -1,6 +1,6 @@
 # <p align="center"> Hi there 👋! My name is Aditya Mehta </p> 
 
-I am a Sophomore at one of the most decorated technological institutes: **Indian Institute of Technology Gandhinagar,** in **Computer Science and Engineering Department**.  I am trying to make ```Hello World``` my new **ABC**.
+I am a Junior Undergraduate at one of the most decorated technological institutes: **Indian Institute of Technology Gandhinagar,** in **Computer Science and Engineering Department**.  I am trying to make ```Hello World``` my new **ABC**.
 
 - 🔭 I am currently strengthening my grip at Machine Learning solutions to real life problems, along side exploring Software Developement.
 - 📎 I am fascinated by the intersection of Technology and Finance, and currently exploring trading technologies and understanding markets.
