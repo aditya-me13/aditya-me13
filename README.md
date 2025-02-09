@@ -1,4 +1,4 @@
-# <p align="center"> Hi there 👋! My name is Aditya Mehta </p> 
+# <p align="center"> Hello World 👋! My name is Aditya Mehta </p> 
 
 I am a Junior Undergraduate at one of the most decorated technological institutes: **Indian Institute of Technology Gandhinagar,** in **Computer Science and Engineering Department**.  I am trying to make ```Hello World``` my new **ABC**.
 
